@@ -5,7 +5,7 @@
 <h3 align="left"> - 🤝 I’m looking for help with *Mobile Development*
 <h3 align="left"> - 🤝 I’m looking for help with *Artificial Intelligence*
 <h3 align="left"> - 📫 How to reach me *aysegulyavuz@ogr.bandirma.edu.tr*
-</h1> <img align="right" img src="https://media3.giphy.com/media/D0fHH2TjaoRmWhPmTZ/200w.webp"/>
+
   
  
   
