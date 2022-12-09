@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Aysegulyavuz55/Aysegulyavuz55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">       A passionate Computer Engineering student from Turkey</h3>
+<h3 align="left"> - 💻 I’m currently learning Machine Learning,Python,Java,C
+<h3 align="left"> - 🤝 I’m looking for help with *Mobile Development*
+<h3 align="left"> - 🤝 I’m looking for help with *Artificial Intelligence*
+<h3 align="left"> - 📫 How to reach me *aysegulyavuz@ogr.bandirma.edu.tr*
+  
+  <p align="center"> 
+ Visitor count<br>
+ <img src="https://profile-counter.glitch.me/Aysegulyavuz55/count.svg" />
+ </p>
